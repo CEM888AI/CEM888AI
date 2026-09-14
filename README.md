@@ -4,6 +4,19 @@
 
 **STATE decides what is true. MODELS decide what to do about it.**
 
+---
+
+## ⭐ The project lives here → **[github.com/CEM888AI/cem888](https://github.com/CEM888AI/cem888)**
+
+**[CEM888AI/cem888](https://github.com/CEM888AI/cem888)** is the flagship repository — source, install, and the star button.
+First public beta, AGPL-3.0, shipped September 14 2026.
+
+**[⭐ Star it](https://github.com/CEM888AI/cem888)** · **[⬇️ Install](https://github.com/CEM888AI/cem888#install)** · **[💗 Sponsor](https://ko-fi.com/cem888ai)** · **[🏢 Commercial](mailto:creator@cem888.ai)**
+
+Everything else on this account is supporting evidence for that one repo.
+
+---
+
 [![MemoryAgentBench AR](https://img.shields.io/badge/MemoryAgentBench_AR-99.9%25-1f6feb?style=flat-square)](https://github.com/CEM888AI/benchmarks)
 [![Local-first](https://img.shields.io/badge/local--first-your_machine-238636?style=flat-square)](https://cem888.ai)
 [![Model-agnostic](https://img.shields.io/badge/models-Claude_·_GPT_·_DeepSeek_·_local-8957e5?style=flat-square)](#)
