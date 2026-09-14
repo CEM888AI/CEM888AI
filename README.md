@@ -11,7 +11,7 @@
 **[CEM888AI/cem888](https://github.com/CEM888AI/cem888)** is the flagship repository — source, install, and the star button.
 First public beta, AGPL-3.0, shipped September 14 2026.
 
-**[⭐ Star it](https://github.com/CEM888AI/cem888)** · **[⬇️ Self-host, free](https://github.com/CEM888AI/cem888#get-cem888)** · **[🚀 Hosted account](https://cem888.ai/register.html)** · **[💗 Sponsor](https://ko-fi.com/cem888ai)** · **[🏢 Commercial](mailto:creator@cem888.ai)**
+**[⭐ Star it](https://github.com/CEM888AI/cem888)** · **[⬇️ Install, free](https://github.com/CEM888AI/cem888#get-cem888)** · **[🚀 Create account](https://cem888.ai/register.html)** · **[💗 Sponsor](https://ko-fi.com/cem888ai)** · **[🏢 Commercial](mailto:creator@cem888.ai)**
 
 Everything else on this account is supporting evidence for that one repo.
 
