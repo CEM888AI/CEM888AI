@@ -8,10 +8,12 @@
 
 ## ⭐ The project lives here → **[github.com/CEM888AI/cem888](https://github.com/CEM888AI/cem888)**
 
-**[CEM888AI/cem888](https://github.com/CEM888AI/cem888)** is the flagship repository — source, install, and the star button.
+**[CEM888AI/cem888](https://github.com/CEM888AI/cem888)** is the flagship repository — the source code and the star button.
 First public beta, AGPL-3.0, shipped September 14 2026.
 
-**[⭐ Star it](https://github.com/CEM888AI/cem888)** · **[⬇️ Install, free](https://github.com/CEM888AI/cem888#get-cem888)** · **[🚀 Create account](https://cem888.ai/register.html)** · **[💗 Sponsor](https://ko-fi.com/cem888ai)** · **[🏢 Commercial](mailto:creator@cem888.ai)**
+**To use CEM888: create a free account at [cem888.ai](https://cem888.ai/register.html), sign in, and download it for your machine. No payment required.** GitHub is the source, not the installer.
+
+**[🚀 Create a free account & download](https://cem888.ai/register.html)** · **[⭐ Star it](https://github.com/CEM888AI/cem888)** · **[💗 Sponsor](https://ko-fi.com/cem888ai)** · **[🏢 Commercial](mailto:creator@cem888.ai)**
 
 Everything else on this account is supporting evidence for that one repo.
 
@@ -60,11 +62,11 @@ Every number links to raw, reproducible data. Case studies include the failures,
 
 | | |
 |---|---|
+| **Get CEM888** — free account, sign in, download | [cem888.ai](https://cem888.ai/register.html) |
 | **Benchmarks** — raw, reproducible, sourced | [CEM888AI/benchmarks](https://github.com/CEM888AI/benchmarks) |
 | **Case studies** — problem → root cause → fix → measurement | [CEM888AI/runtime-case-studies](https://github.com/CEM888AI/runtime-case-studies) |
 | **Reliability evidence** from production runs | [CEM888AI/agent-systems-lab](https://github.com/CEM888AI/agent-systems-lab) |
 | **Architecture** | [architecture.md](https://github.com/CEM888AI/runtime-case-studies/blob/main/architecture.md) |
-| **Live product** | [cem888.ai](https://cem888.ai) |
 | **Legal** — Terms, Privacy, EULA, IP | [CEM888AI/legal](https://github.com/CEM888AI/legal) |
 
 ## How this is funded
@@ -91,10 +93,10 @@ I'm building this because agent infrastructure is consolidating into a handful o
 |---|---|---|
 | **Supporter** | $5 | Name in SPONSORS.md — you're keeping the benchmarks running |
 | **Backer** | $25 | Build log: what shipped, what broke, what it cost |
-| **Believer** | $100 | Early access to the runtime before public release |
+| **Believer** | $100 | Early access to releases |
 | **Company** | $500 | Logo in this README and on cem888.ai |
 
-Sponsorship pays for model API and compute on the benchmark suite, packaging and security review for the public release, and hours spent on the runtime instead of contract work.
+Sponsorship pays for model API and compute on the benchmark suite, packaging and security review, and hours spent on the runtime instead of contract work.
 
 ---
 
