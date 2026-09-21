@@ -32,7 +32,7 @@ Everything else on this account is supporting evidence for that one repo.
 
 Your agent forgets. Every new session starts blind. Switch models and the work resets. And when it says "done," you have no way to know whether it actually happened.
 
-CEM888 moves identity, state, continuity, authority, retrieval, execution control, and verification **outside the model**. The model becomes a replaceable driver. Swap Claude for GPT for a local model mid-project — the agent keeps its state, its permissions, and its work.
+CEM888 moves identity, state, continuity, authority, retrieval, execution control, verification, and **receipts** outside the model. The model becomes a replaceable driver. Swap Claude for GPT for a local model mid-project — the agent keeps its state, its permissions, and its work, while the runtime preserves the evidence trail of what actually happened.
 
 **Runs on your machine, against your own model keys. No central server holds your state.**
 
@@ -77,15 +77,15 @@ Every number links to raw, reproducible data. Case studies include the failures,
 
 **Enterprise or custom integration?** → [creator@cem888.ai](mailto:creator@cem888.ai)
 
-## Built and funded by one person
+## Built by Chandler Morone, Founder
 
-I'm Chandler Morone. I build CEM888 alone, and I paid for it myself.
+I'm Chandler Morone, founder of CEM888.
 
-My background isn't a CS degree — it's dressage, TIG welding, CNC programming, and reading blueprints against what metal actually does under heat. Years of work where a bad weld doesn't throw an exception; it fails in someone's hands. That's the engineering mindset underneath this: verify the claim, don't trust the report.
+My engineering background spans agent infrastructure, fabrication, TIG welding, CNC programming, blueprints, and competitive dressage. The common thread is simple: the result has to match the claim.
 
-I sold my dressage horse to keep building. That funded the runtime. It doesn't fund what comes next.
+That principle became part of CEM888's architecture. Models can propose actions and describe outcomes; the runtime owns state, verifies consequential work against evidence, and preserves **receipts** showing what actually happened.
 
-I'm building this because agent infrastructure is consolidating into a handful of clouds that own your state and your lock-in. Local-first is the alternative, and it needs to exist before the window closes.
+I built and funded the runtime independently because agent infrastructure should not require surrendering persistent state and control to a single model provider or cloud.
 
 **Sponsoring keeps it independent and keeps it free.**
 
