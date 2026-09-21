@@ -4,9 +4,11 @@
 
 **STATE decides what is true. MODELS decide what to do about it.**
 
+**Start here:** **[CEM888](https://github.com/CEM888AI/cem888)** → **[Benchmarks](https://github.com/CEM888AI/benchmarks)** → **[Runtime case studies](https://github.com/CEM888AI/runtime-case-studies)**
+
 ---
 
-## ⭐ The project lives here → **[github.com/CEM888AI/cem888](https://github.com/CEM888AI/cem888)**
+## ⭐ Flagship → **[github.com/CEM888AI/cem888](https://github.com/CEM888AI/cem888)**
 
 **[CEM888AI/cem888](https://github.com/CEM888AI/cem888)** is the flagship repository — the source code and the star button.
 First public beta, AGPL-3.0, shipped September 14 2026.
