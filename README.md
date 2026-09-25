@@ -15,16 +15,15 @@ First public beta, AGPL-3.0, shipped September 14 2026.
 
 **To use CEM888: create a free account at [cem888.ai](https://cem888.ai/register.html), sign in, and download it for your machine. No payment required.** GitHub is the source, not the installer.
 
-**[🚀 Create a free account & download](https://cem888.ai/register.html)** · **[⭐ Star it](https://github.com/CEM888AI/cem888)** · **[💗 Sponsor](https://ko-fi.com/cem888ai)** · **[🏢 Commercial](mailto:creator@cem888.ai)**
+**[🚀 Create a free account & download](https://cem888.ai/register.html)** · **[⭐ Star it](https://github.com/CEM888AI/cem888)** · **[🏢 Commercial](mailto:creator@cem888.ai)**
 
 Everything else on this account is supporting evidence for that one repo.
 
 ---
 
-[![MemoryAgentBench AR](https://img.shields.io/badge/MemoryAgentBench_AR-99.9%25-1f6feb?style=flat-square)](https://github.com/CEM888AI/benchmarks)
+[![BEAM-10M](https://img.shields.io/badge/BEAM--10M-77.2%25-1f6feb?style=flat-square)](https://github.com/CEM888AI/benchmarks)
 [![Local-first](https://img.shields.io/badge/local--first-your_machine-238636?style=flat-square)](https://cem888.ai)
 [![Model-agnostic](https://img.shields.io/badge/models-Claude_·_GPT_·_DeepSeek_·_local-8957e5?style=flat-square)](#)
-[![Sponsor](https://img.shields.io/badge/sponsor-keep_this_independent-db61a2?style=flat-square)](https://ko-fi.com/cem888ai)
 
 ---
 
@@ -54,9 +53,13 @@ Memory is necessary and not sufficient. An agent that remembers perfectly can st
 
 | Measurement | Result |
 |---|---|
-| MemoryAgentBench AR — live agent, no answer-key access | **99.9%** (1,998/2,000) · next-best published: **71.8%** · [raw data →](https://github.com/CEM888AI/benchmarks) |
+| **BEAM-10M** (benchmark of record) — live agent, no answer-key access | **77.2%** (154.4 / 200) · [method + per-question data →](https://github.com/CEM888AI/benchmarks) |
+| Runtime evaluation — durable state, kill-and-recover, model swap, verified execution, authority boundary, unknown state, provenance, contradiction/freshness, failure recovery | 9 / 9 pass; authority-boundary mechanism partial · [evaluation →](https://huggingface.co/datasets/CEM888AI/cem888-independent-runtime-evaluation) |
 | Runaway context from a backward-search anchoring bug | **207 messages → 1,010-token** bounded packet · [case study →](https://github.com/CEM888AI/runtime-case-studies/blob/main/case-study-context-window-bounding.md) |
 | Workflow with tool-schema surface scoped per turn | **4 calls / 25.6s → 1 call / 15.7s**, from 84 tools (~29.3K schema tokens) · [case study →](https://github.com/CEM888AI/runtime-case-studies/blob/main/case-study-tool-schema-scoping.md) |
+| MemoryAgentBench AR — **retrieval only**, not end-to-end memory | 99.9% (1,998 / 2,000) · [raw data →](https://github.com/CEM888AI/benchmarks) |
+
+The runtime evaluation was performed by an AI engineering assistant running on Hugging Face Jobs infrastructure on September 18, 2026: single evaluator, one OS (Debian 13), one provider family (DeepSeek), CEM888 v1.0.x. It is not an official Hugging Face evaluation or endorsement.
 
 Every number links to raw, reproducible data. Case studies include the failures, root causes, and what the fix cost — not just the wins.
 
@@ -68,12 +71,12 @@ Every number links to raw, reproducible data. Case studies include the failures,
 | **Benchmarks** — raw, reproducible, sourced | [CEM888AI/benchmarks](https://github.com/CEM888AI/benchmarks) |
 | **Case studies** — problem → root cause → fix → measurement | [CEM888AI/runtime-case-studies](https://github.com/CEM888AI/runtime-case-studies) |
 | **Reliability evidence** from production runs | [CEM888AI/agent-systems-lab](https://github.com/CEM888AI/agent-systems-lab) |
-| **Architecture** | [architecture.md](https://github.com/CEM888AI/runtime-case-studies/blob/main/architecture.md) |
+| **Architecture** | [docs/ARCHITECTURE.md](https://github.com/CEM888AI/cem888/blob/main/docs/ARCHITECTURE.md) |
 | **Legal** — Terms, Privacy, EULA, IP | [CEM888AI/legal](https://github.com/CEM888AI/legal) |
 
-## How this is funded
+## Licensing
 
-**The community runtime is free.** It stays free. Revenue comes from two places that don't tax the people using it: commercial licensing for proprietary enterprise productization, and custom enterprise/private integration work.
+**The community runtime is free** under AGPL-3.0. Keeping a CEM888-based implementation proprietary (embedding, white-labeling, reselling, closed hosted service) requires a negotiated commercial license, and custom enterprise or private integration work is available.
 
 **Enterprise or custom integration?** → [creator@cem888.ai](mailto:creator@cem888.ai)
 
@@ -87,19 +90,6 @@ That principle became part of CEM888's architecture. Models can propose actions 
 
 I built and funded the runtime independently because agent infrastructure should not require surrendering persistent state and control to a single model provider or cloud.
 
-**Sponsoring keeps it independent and keeps it free.**
-
-→ **[Ko-fi](https://ko-fi.com/cem888ai)** · [One-time](https://donate.stripe.com/cNi28q5WA3l4bVQaqnfbq02) · [Monthly](https://donate.stripe.com/6oU14m3Os3l47FA41Zfbq03)
-
-| Tier | Monthly | |
-|---|---|---|
-| **Supporter** | $5 | Name in SPONSORS.md — you're keeping the benchmarks running |
-| **Backer** | $25 | Build log: what shipped, what broke, what it cost |
-| **Believer** | $100 | Early access to releases |
-| **Company** | $500 | Logo in this README and on cem888.ai |
-
-Sponsorship pays for model API and compute on the benchmark suite, packaging and security review, and hours spent on the runtime instead of contract work.
-
 ---
 
-→ [cem888.ai](https://cem888.ai) · [creator@cem888.ai](mailto:creator@cem888.ai) · [LinkedIn](https://linkedin.com/in/chandler-morone-a8010174)
+→ [cem888.ai](https://cem888.ai) · [creator@cem888.ai](mailto:creator@cem888.ai) · [LinkedIn](https://linkedin.com/in/chandler-morone-a8010174) · [Sponsors](https://github.com/CEM888AI/CEM888AI/blob/main/SPONSORS.md)
