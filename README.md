@@ -29,11 +29,11 @@ Everything else on this account is supporting evidence for that one repo.
 
 ## The 10-second version
 
-Your agent forgets. Every new session starts blind. Switch models and the work resets. And when it says "done," you have no way to know whether it actually happened.
+Long-running agents can lose current state, carry stale decisions forward, repeat work after retries, or report success without external proof.
 
-CEM888 moves identity, state, continuity, authority, retrieval, execution control, verification, and **receipts** outside the model. The model becomes a replaceable driver. Swap Claude for GPT for a local model mid-project — the agent keeps its state, its permissions, and its work, while the runtime preserves the evidence trail of what actually happened.
+CEM888 moves identity, authoritative state, continuity, action authority, verification, and **receipts** outside the model. The runtime is designed so model/provider changes do not have to own the agent's durable operational truth; each host/provider path is certified separately and should not be assumed equivalent until measured.
 
-**Runs on your machine, against your own model keys. No central server holds your state.**
+**Runs on customer-controlled machines or infrastructure, against the customer's chosen model path. CEM888 does not centrally execute customer agents.**
 
 ---
 
@@ -61,14 +61,14 @@ Memory is necessary and not sufficient. An agent that remembers perfectly can st
 
 The runtime evaluation was performed by an AI engineering assistant running on Hugging Face Jobs infrastructure on September 18, 2026: single evaluator, one OS (Debian 13), one provider family (DeepSeek), CEM888 v1.0.x. It is not an official Hugging Face evaluation or endorsement.
 
-Every number links to raw, reproducible data. Case studies include the failures, root causes, and what the fix cost — not just the wins.
+Every number links to its supporting evidence and stated limitations. Some scorecards can be recomputed from published artifacts; the original live generation environment is not always fully reproducible. Case studies include failures, root causes, measurements, and limitations — not just wins.
 
 ## Explore
 
 | | |
 |---|---|
 | **Get CEM888** — free account, sign in, download | [cem888.ai](https://cem888.ai/register.html) |
-| **Benchmarks** — raw, reproducible, sourced | [CEM888AI/benchmarks](https://github.com/CEM888AI/benchmarks) |
+| **Benchmarks** — sourced, dated, limitation-labeled evidence | [CEM888AI/benchmarks](https://github.com/CEM888AI/benchmarks) |
 | **Case studies** — problem → root cause → fix → measurement | [CEM888AI/runtime-case-studies](https://github.com/CEM888AI/runtime-case-studies) |
 | **Reliability evidence** from production runs | [CEM888AI/agent-systems-lab](https://github.com/CEM888AI/agent-systems-lab) |
 | **Architecture** | [docs/ARCHITECTURE.md](https://github.com/CEM888AI/cem888/blob/main/docs/ARCHITECTURE.md) |
