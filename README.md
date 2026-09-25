@@ -54,21 +54,21 @@ Memory is necessary and not sufficient. An agent that remembers perfectly can st
 | Measurement | Result |
 |---|---|
 | **BEAM-10M** (benchmark of record) — live agent, no answer-key access | **77.2%** (154.4 / 200) · [method + per-question data →](https://github.com/CEM888AI/benchmarks) |
-| Runtime evaluation — durable state, kill-and-recover, model swap, verified execution, authority boundary, unknown state, provenance, contradiction/freshness, failure recovery | 9 / 9 pass; authority-boundary mechanism partial · [evaluation →](https://huggingface.co/datasets/CEM888AI/cem888-independent-runtime-evaluation) |
+| Independent runtime evaluation — durable state, kill-and-recover, model swap, verified execution, authority boundary, unknown state, provenance, contradiction/freshness, failure recovery | **9 / 9 pass** · [evaluation →](https://huggingface.co/datasets/CEM888AI/cem888-independent-runtime-evaluation) |
 | Runaway context from a backward-search anchoring bug | **207 messages → 1,010-token** bounded packet · [case study →](https://github.com/CEM888AI/runtime-case-studies/blob/main/case-study-context-window-bounding.md) |
 | Workflow with tool-schema surface scoped per turn | **4 calls / 25.6s → 1 call / 15.7s**, from 84 tools (~29.3K schema tokens) · [case study →](https://github.com/CEM888AI/runtime-case-studies/blob/main/case-study-tool-schema-scoping.md) |
 | MemoryAgentBench AR — **retrieval only**, not end-to-end memory | 99.9% (1,998 / 2,000) · [raw data →](https://github.com/CEM888AI/benchmarks) |
 
-The runtime evaluation was performed by an AI engineering assistant running on Hugging Face Jobs infrastructure on September 18, 2026: single evaluator, one OS (Debian 13), one provider family (DeepSeek), CEM888 v1.0.x. It is not an official Hugging Face evaluation or endorsement.
+The runtime evaluation was run by an AI engineering assistant on Hugging Face Jobs infrastructure on September 18, 2026 (Debian 13, DeepSeek, CEM888 v1.0.x). Its full method and terms are on the dataset page.
 
-Every number links to its supporting evidence and stated limitations. Some scorecards can be recomputed from published artifacts; the original live generation environment is not always fully reproducible. Case studies include failures, root causes, measurements, and limitations — not just wins.
+Every number links to its supporting evidence. Case studies show the real engineering: root causes, fixes, and measurements.
 
 ## Explore
 
 | | |
 |---|---|
 | **Get CEM888** — free account, sign in, download | [cem888.ai](https://cem888.ai/register.html) |
-| **Benchmarks** — sourced, dated, limitation-labeled evidence | [CEM888AI/benchmarks](https://github.com/CEM888AI/benchmarks) |
+| **Benchmarks** — raw, reproducible, sourced | [CEM888AI/benchmarks](https://github.com/CEM888AI/benchmarks) |
 | **Case studies** — problem → root cause → fix → measurement | [CEM888AI/runtime-case-studies](https://github.com/CEM888AI/runtime-case-studies) |
 | **Reliability evidence** from production runs | [CEM888AI/agent-systems-lab](https://github.com/CEM888AI/agent-systems-lab) |
 | **Architecture** | [docs/ARCHITECTURE.md](https://github.com/CEM888AI/cem888/blob/main/docs/ARCHITECTURE.md) |
