@@ -11,9 +11,9 @@
 ## ⭐ Flagship → **[github.com/CEM888AI/cem888](https://github.com/CEM888AI/cem888)**
 
 **[CEM888AI/cem888](https://github.com/CEM888AI/cem888)** is the flagship repository — the source code and the star button.
-First public beta, AGPL-3.0, shipped September 14 2026.
+First public beta shipped September 14, 2026. v1.0.3 remains AGPL-3.0; versions first released after v1.0.3 use Business Source License 1.1.
 
-**To use CEM888: create a free account at [cem888.ai](https://cem888.ai/register.html), sign in, and download it for your machine. No payment required.** GitHub is the source, not the installer.
+**To evaluate CEM888 or use it personally/non-commercially: create an account at [cem888.ai](https://cem888.ai/register.html), sign in, and download it for your machine. Business production use requires a commercial license from CEM Unlimited LLC.** GitHub is the source, not the installer.
 
 **[🚀 Create a free account & download](https://cem888.ai/register.html)** · **[⭐ Star it](https://github.com/CEM888AI/cem888)** · **[🏢 Commercial](mailto:creator@cem888.ai)**
 
@@ -76,7 +76,7 @@ Every number links to its supporting evidence. Case studies show the real engine
 
 ## Licensing
 
-**The community runtime is free** under AGPL-3.0. Keeping a CEM888-based implementation proprietary (embedding, white-labeling, reselling, closed hosted service) requires a negotiated commercial license, and custom enterprise or private integration work is available.
+**Current CEM888 releases are source-available under Business Source License 1.1.** Evaluation, non-production use, and personal non-commercial production use are available under the BSL grant. **Business production use requires a paid commercial license from CEM Unlimited LLC.** Embedding, white-labeling, resale, hosted service, and OEM use require negotiated commercial terms. v1.0.3 remains AGPL-3.0 under the terms that accompanied that release.
 
 **Enterprise or custom integration?** → [creator@cem888.ai](mailto:creator@cem888.ai)
 
