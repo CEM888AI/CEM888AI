@@ -11,7 +11,7 @@
 ## ⭐ Flagship → **[github.com/CEM888AI/cem888](https://github.com/CEM888AI/cem888)**
 
 **[CEM888AI/cem888](https://github.com/CEM888AI/cem888)** is the flagship repository — the source code and the star button.
-First public beta shipped September 14, 2026. v1.0.3 remains AGPL-3.0, and v1.0.4 plus later versions released under Business Source License 1.1 remain under those terms; current and future releases use the **Elastic License 2.0 (ELv2)** — source-available, never converts.
+First public beta shipped September 14, 2026. v1.0.3 remains AGPL-3.0, and v1.0.4 plus later versions released under Business Source License 1.1 remain under those terms; current and future releases use the **CEM888 Source-Available Commercial License** — source-available, never converts.
 
 **To evaluate CEM888 or use it personally/non-commercially: create an account at [cem888.ai](https://cem888.ai/register.html), sign in, and download it for your machine. Business production use requires a commercial license from CEM Unlimited LLC.** GitHub is the source, not the installer.
 
@@ -76,7 +76,7 @@ Every number links to its supporting evidence. Case studies show the real engine
 
 ## Licensing
 
-**Current and future CEM888 releases are source-available under the Elastic License 2.0 (ELv2).** ELv2 grants use, copying, distribution and modification, and prohibits two things: providing the software to third parties as a hosted or managed service, and moving, changing, disabling or circumventing the license key functionality. **ELv2 never converts into an open-source license.** **Business production use requires a paid commercial license from CEM Unlimited LLC.** Embedding, white-labeling, resale, hosted service, and OEM use require negotiated commercial terms. Release history: v1.0.3 remains AGPL-3.0, and v1.0.4 plus later versions released under Business Source License 1.1 remain under those terms.
+**Current and future CEM888 releases are source-available under the CEM888 Source-Available Commercial License.** It grants use, copying, distribution and modification **for personal, non-commercial use**, and it **never converts into an open-source license.** **Nothing that makes money, or builds a business, is free:** business production use, paid client work, embedding, white-labeling, resale, hosted or managed service use, and OEM use all require a **paid commercial license from CEM Unlimited LLC** (negotiated terms). Release history: v1.0.3 remains AGPL-3.0, and v1.0.4 plus later versions released under Business Source License 1.1 or the Elastic License 2.0 remain under those terms.
 
 **Enterprise or custom integration?** → [creator@cem888.ai](mailto:creator@cem888.ai)
 
