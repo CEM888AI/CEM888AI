@@ -1,6 +1,6 @@
 # Sponsoring CEM888
 
-The CEM888 community runtime is source-available under the **Elastic License 2.0 (ELv2)** — free to use, copy, modify and distribute, and it never converts to an open-source license. Sponsorship pays for model API and compute on the benchmark suite, packaging and security review, and hours spent on the runtime instead of contract work.
+The CEM888 community runtime is source-available under the **CEM888 Source-Available Commercial License** — free for personal, non-commercial use (read, audit, copy, modify and distribute it for yourself), and it never converts to an open-source license. Sponsorship pays for model API and compute on the benchmark suite, packaging and security review, and hours spent on the runtime instead of contract work.
 
 Sponsorship is separate from licensing: it does not buy a commercial license, a support agreement, or equity. For commercial licensing or integration work, email [creator@cem888.ai](mailto:creator@cem888.ai).
 
