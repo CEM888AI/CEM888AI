@@ -4,20 +4,21 @@
 
 **STATE decides what is true. MODELS decide what to do about it.**
 
-**Start here:** **[CEM888](https://github.com/CEM888AI/cem888)** → **[Benchmarks](https://github.com/CEM888AI/benchmarks)** → **[Runtime case studies](https://github.com/CEM888AI/runtime-case-studies)**
+**Start here:** **[cem888.ai](https://cem888.ai/register.html)** → **[Current engineering status](https://github.com/CEM888AI/runtime-case-studies/blob/main/current-engineering-status.md)** → **[Benchmarks](https://github.com/CEM888AI/benchmarks)** → **[Runtime case studies](https://github.com/CEM888AI/runtime-case-studies)**
 
 ---
 
-## ⭐ Flagship → **[github.com/CEM888AI/cem888](https://github.com/CEM888AI/cem888)**
+## ⭐ The product → **[cem888.ai](https://cem888.ai/register.html)**
 
-**[CEM888AI/cem888](https://github.com/CEM888AI/cem888)** is the flagship repository — the source code and the star button.
-First public beta shipped September 14, 2026. v1.0.3 remains AGPL-3.0, and v1.0.4 plus later versions released under Business Source License 1.1 remain under those terms; current and future releases use the **CEM888 Source-Available Commercial License** — source-available, never converts.
+**The runtime source is private.** The `cem888` repository holds the proprietary implementation, licensing and audit record; it is not published, and source access is granted to licensees and design partners rather than opened publicly. This account publishes the evidence layer around it.
 
-**To evaluate CEM888 or use it personally/non-commercially: create an account at [cem888.ai](https://cem888.ai/register.html), sign in, and download it for your machine. Business production use requires a commercial license from CEM Unlimited LLC.** GitHub is the source, not the installer.
+First public beta shipped September 14, 2026; the current release line is **v1.0.46**. v1.0.3 remains AGPL-3.0, and versions first released under Business Source License 1.1 or the Elastic License 2.0 remain under those terms; current and future releases use the **CEM888 Source-Available Commercial License** — source-available to licensees, never converts.
 
-**[🚀 Create a free account & download](https://cem888.ai/register.html)** · **[⭐ Star it](https://github.com/CEM888AI/cem888)** · **[🏢 Commercial](mailto:creator@cem888.ai)**
+**To evaluate CEM888 or use it personally/non-commercially: create an account at [cem888.ai](https://cem888.ai/register.html), sign in, and download it for your machine. Business production use requires a commercial license from CEM Unlimited LLC.**
 
-Everything else on this account is supporting evidence for that one repo.
+**[🚀 Create a free account & download](https://cem888.ai/register.html)** · **[📋 Current status](https://github.com/CEM888AI/runtime-case-studies/blob/main/current-engineering-status.md)** · **[🏢 Commercial](mailto:creator@cem888.ai)**
+
+Everything else on this account is supporting evidence for that product.
 
 ---
 
@@ -67,16 +68,17 @@ Every number links to its supporting evidence. Case studies show the real engine
 
 | | |
 |---|---|
+| **Current status** — shipped, in progress, and explicitly not claimed | [runtime-case-studies/current-engineering-status.md](https://github.com/CEM888AI/runtime-case-studies/blob/main/current-engineering-status.md) |
 | **Get CEM888** — free account, sign in, download | [cem888.ai](https://cem888.ai/register.html) |
 | **Benchmarks** — raw, reproducible, sourced | [CEM888AI/benchmarks](https://github.com/CEM888AI/benchmarks) |
 | **Case studies** — problem → root cause → fix → measurement | [CEM888AI/runtime-case-studies](https://github.com/CEM888AI/runtime-case-studies) |
 | **Reliability evidence** from production runs | [CEM888AI/agent-systems-lab](https://github.com/CEM888AI/agent-systems-lab) |
-| **Architecture** | [docs/ARCHITECTURE.md](https://github.com/CEM888AI/cem888/blob/main/docs/ARCHITECTURE.md) |
+| **Architecture** | [runtime-case-studies/architecture.md](https://github.com/CEM888AI/runtime-case-studies/blob/main/architecture.md) |
 | **Legal** — Terms, Privacy, EULA, IP | [CEM888AI/legal](https://github.com/CEM888AI/legal) |
 
 ## Licensing
 
-**Current and future CEM888 releases are source-available under the CEM888 Source-Available Commercial License.** It grants use, copying, distribution and modification **for personal, non-commercial use**, and it **never converts into an open-source license.** **Nothing that makes money, or builds a business, is free:** business production use, paid client work, embedding, white-labeling, resale, hosted or managed service use, and OEM use all require a **paid commercial license from CEM Unlimited LLC** (negotiated terms). Release history: v1.0.3 remains AGPL-3.0, and v1.0.4 plus later versions released under Business Source License 1.1 or the Elastic License 2.0 remain under those terms.
+**Current and future CEM888 releases are licensed under the CEM888 Source-Available Commercial License.** It grants use, copying, distribution and modification **for personal, non-commercial use** to those issued the software or granted source access, and it **never converts into an open-source license.** **Nothing that makes money, or builds a business, is free:** business production use, paid client work, embedding, white-labeling, resale, hosted or managed service use, and OEM use all require a **paid commercial license from CEM Unlimited LLC** (negotiated terms). Release history: v1.0.3 remains AGPL-3.0, and versions first released under Business Source License 1.1 or the Elastic License 2.0 remain under those terms.
 
 **Enterprise or custom integration?** → [creator@cem888.ai](mailto:creator@cem888.ai)
 
