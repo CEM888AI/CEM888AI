@@ -78,7 +78,7 @@ Every number links to its supporting evidence. Case studies show the real engine
 
 ## Licensing
 
-**Current and future CEM888 releases are licensed under the CEM888 Source-Available Commercial License.** It grants use, copying, distribution and modification **for personal, non-commercial use** to those issued the software or granted source access, and it **never converts into an open-source license.** **Nothing that makes money, or builds a business, is free:** business production use, paid client work, embedding, white-labeling, resale, hosted or managed service use, and OEM use all require a **paid commercial license from CEM Unlimited LLC** (negotiated terms). Release history: v1.0.3 remains AGPL-3.0, and versions first released under Business Source License 1.1 or the Elastic License 2.0 remain under those terms.
+**Current and future CEM888 releases are licensed under the CEM888 Source-Available Commercial License.** It grants use, copying, distribution and modification **for personal, non-commercial use** to those issued the software or granted source access, and it **never converts into an open-source license.** **Nothing that makes money, or builds a business, is free:** business production use, paid client work, embedding, white-labeling, resale, hosted or managed service use, and OEM use all require a **paid commercial license from CEM Unlimited LLC** (negotiated terms). Release history: one licence across every release — no CEM888 release has ever been published under an open-source licence, and no runtime engine source has ever been published.
 
 **Enterprise or custom integration?** → [creator@cem888.ai](mailto:creator@cem888.ai)
 
