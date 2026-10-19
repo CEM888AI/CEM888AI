@@ -12,7 +12,7 @@
 
 **The runtime source is private.** The `cem888` repository holds the proprietary implementation, licensing and audit record; it is not published, and source access is granted to licensees and design partners rather than opened publicly. This account publishes the evidence layer around it.
 
-First public beta shipped September 14, 2026; the current release line is **v1.0.46**. v1.0.3 remains AGPL-3.0, and versions first released under Business Source License 1.1 or the Elastic License 2.0 remain under those terms; current and future releases use the **CEM888 Source-Available Commercial License** — source-available to licensees, never converts.
+First public beta shipped September 14, 2026; the current release line is **v1.0.46**. Every release is licensed under the **CEM888 Source-Available Commercial License** — source-available to licensees, never converts. No CEM888 release has ever been published under an open-source licence; v1.0.3 is the audit record, not a published engine.
 
 **To evaluate CEM888 or use it personally/non-commercially: create an account at [cem888.ai](https://cem888.ai/register.html), sign in, and download it for your machine. Business production use requires a commercial license from CEM Unlimited LLC.**
 
